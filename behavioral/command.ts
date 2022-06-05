@@ -73,3 +73,5 @@ class Controller {
 const controller = new Controller();
 controller.addReceiver(new UserService());
 controller.run();
+
+export {}
