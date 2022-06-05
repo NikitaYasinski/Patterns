@@ -8,3 +8,4 @@
 
 ## Behavioral patterns: 
 1. Chain on Responsibility [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/chain-of-responsibility.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
+2. Command [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/command.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/command)

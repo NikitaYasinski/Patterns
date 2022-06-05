@@ -59,3 +59,5 @@ auth.handle({
   userId: 1,
   body: 'body'
 });
+
+export {};
