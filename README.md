@@ -13,3 +13,4 @@
 4. Strategy [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/strategy.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/strategy)
 5. Iterator [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/iterator.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/iterator)
 6. Template method [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/template-method.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/template-method)
+7. Observer [My implementation](https://github.com/NikitaYasinski/Patterns/blob/master/behavioral/observer.ts) [Refactoring.guru](https://refactoring.guru/design-patterns/observer)
